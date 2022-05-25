@@ -1,0 +1,15 @@
+2022-05-24 14:27:49,108 [main] INFO Google Web - Chrome Browser Launched
+2022-05-24 14:27:49,396 [main] INFO Google Web - Browser Maximized
+2022-05-24 14:27:51,118 [main] INFO Google Web - Google URL entered and launched
+2022-05-24 14:32:21,300 [main] INFO Google Web - Chrome Browser Launched
+2022-05-24 14:32:21,499 [main] INFO Google Web - Browser Maximized
+2022-05-24 14:32:26,055 [main] INFO Google Web - Google URL entered and launched
+2022-05-24 14:32:26,271 [main] INFO Google Web - Log4j Tutorial entered in google search field
+2022-05-24 14:32:28,464 [main] INFO Google Web - Enter button pressed in keyboard
+2022-05-24 14:34:06,229 [main] INFO Google Web - Chrome Browser Launched
+2022-05-24 14:34:06,391 [main] INFO Google Web - Browser Maximized
+2022-05-24 14:34:09,662 [main] INFO Google Web - Google URL entered and launched
+2022-05-24 14:34:09,821 [main] INFO Google Web - Log4j Tutorial entered in google search field
+2022-05-24 14:34:11,997 [main] INFO Google Web - Enter button pressed in keyboard
+2022-05-24 14:34:15,015 [main] INFO Google Web - Wait for 3 seconds
+2022-05-24 14:34:19,233 [main] INFO Google Web - Browser closed
