@@ -3,6 +3,7 @@ package testNG;
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeTest;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterTest;
 
 public class GitHub {
@@ -14,6 +15,9 @@ public class GitHub {
   }
   @BeforeTest
   public void beforeTest() {
+	  System.setProperty("webdriver.gecko.driver","G:\\Lib\\geckodriver.exe");
+      driver = new FirefoxDriver();
+      driver.manage().window().maximize();
   }
 
   @AfterTest
